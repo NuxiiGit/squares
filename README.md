@@ -6,21 +6,21 @@ Original project: [The Squares Will Kill You! (Seriously)](https://scratch.mit.e
 
 Original project details:
 
-**Instructions**
+> **Instructions**
+> 
+> This game is point and click, so just whack out your mouse (or mice) and get crackin'.
+> 
+> The aim is to click the squares before they turn red (although, you have a little space where you can still click it and avoid loosing!
+> 
+> The squares will start green and gradually turn red. Not a gradual gradient or anything, that would be too much effort... You'll see.
 
-This game is point and click, so just whack out your mouse (or mice) and get crackin'.
-
-The aim is to click the squares before they turn red (although, you have a little space where you can still click it and avoid loosing!
-
-The squares will start green and gradually turn red. Not a gradual gradient or anything, that would be too much effort... You'll see.
-
-**Notes and Credits**
-
-I'll probably add difficulties later, because currently you need to have a average dexterity to keep up.
-Note: the game isn't broken at 20 assets, I added in a song, and that's the final asset it is loading - Just be patient.
-
-I just had this idea out of the blue.
-I copied no scripts, all ideas and blocks are of my own.
-The style was inspired by basic arcade games.
-
-Song: Ryu☆ - AGEHA
+> **Notes and Credits**
+> 
+> I'll probably add difficulties later, because currently you need to have a average dexterity to keep up.
+> Note: the game isn't broken at 20 assets, I added in a song, and that's the final asset it is loading - Just be patient.
+> 
+> I just had this idea out of the blue.
+> I copied no scripts, all ideas and blocks are of my own.
+> The style was inspired by basic arcade games.
+> 
+> Song: Ryu☆ - AGEHA
